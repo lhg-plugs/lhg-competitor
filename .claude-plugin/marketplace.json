@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"竞品分析专家：竞品名单→五维框架→对比矩阵→SWOT→差异化建议报告（competitor / profile / swot / audit）","name":"lhg-competitor","source":"./"}]}
